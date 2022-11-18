@@ -1,5 +1,0 @@
-hi my name is sagar
-
-this is the file created on github and we have pulled it on local machine 
-using cmd pull 
-
